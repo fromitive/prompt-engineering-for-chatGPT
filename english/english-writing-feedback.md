@@ -23,9 +23,9 @@ i want to learn english very well.
     <SENTENCES>
         <SENTENCE>
         ### sentence1 "i'm moosong"  <-- if character length grater than 50. please turancate and append with '...' 
-            <REFINED_VERSIONS> <-- GIVE me REFINED_VERSION at least 3
+            <REFINED_VERSIONS>
                 <REFINED_VERSION>
-                #### refined version: [Refined version here]
+                #### refined version 1: [Refined version here]
 
                 **reason**: [here is VERY DETAILED the reason what the refined version is better than my sentence.]
 
@@ -36,6 +36,7 @@ i want to learn english very well.
                 B : [B answer here]
                 ```
                 </REFINED_VERSION>
+                [refeat REFINED_VERSION at least 3]
             </REFINED_VERSIONS>
         </SENTENCE>
     </SENTENCES>
